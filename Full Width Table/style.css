@@ -1,0 +1,22 @@
+
+body{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #c4c1c1;
+  }
+
+  th,td{
+    text-align: left;
+    padding: 16px;
+  }
+
+
+
+  tr:nth-child(even){
+    background-color: rgb(206, 201, 201);
+  }
